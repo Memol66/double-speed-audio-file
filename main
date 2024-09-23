@@ -1,7 +1,8 @@
+# 0000
 from pydub import AudioSegment
 from pydub.playback import play
 
-# Load the audio file.0202021212102
+# Load the audio file.
 audio_file = "your_audio_file.wav"  # Replace 'your_audio_file.wav' with the path to your audio file
 audio = AudioSegment.from_file(audio_file)
 
